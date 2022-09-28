@@ -1,0 +1,12 @@
+/workspace/travel-log/src/TravelLog.Contracts/bin/Debug/net6.0/TravelLog.Contracts.deps.json
+/workspace/travel-log/src/TravelLog.Contracts/bin/Debug/net6.0/TravelLog.Contracts.dll
+/workspace/travel-log/src/TravelLog.Contracts/bin/Debug/net6.0/TravelLog.Contracts.pdb
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.csproj.AssemblyReference.cache
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.AssemblyInfoInputs.cache
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.AssemblyInfo.cs
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.csproj.CoreCompileInputs.cache
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.dll
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/refint/TravelLog.Contracts.dll
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/TravelLog.Contracts.pdb
+/workspace/travel-log/src/TravelLog.Contracts/obj/Debug/net6.0/ref/TravelLog.Contracts.dll

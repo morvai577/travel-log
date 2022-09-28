@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TravelLog.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TravelLog.Application": "1.0.0"
+        },
+        "runtime": {
+          "TravelLog.Infrastructure.dll": {}
+        }
+      },
+      "TravelLog.Application/1.0.0": {
+        "dependencies": {
+          "TravelLog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TravelLog.Application.dll": {}
+        }
+      },
+      "TravelLog.Domain/1.0.0": {
+        "runtime": {
+          "TravelLog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravelLog.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TravelLog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TravelLog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

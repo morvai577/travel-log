@@ -1,0 +1,17 @@
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Infrastructure.deps.json
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Infrastructure.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Infrastructure.pdb
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.csproj.AssemblyReference.cache
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.AssemblyInfoInputs.cache
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.AssemblyInfo.cs
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.csproj.CoreCompileInputs.cache
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/refint/TravelLog.Infrastructure.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.pdb
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/ref/TravelLog.Infrastructure.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Application.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Domain.dll
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Application.pdb
+/workspace/travel-log/src/TravelLog.Infrastructure/bin/Debug/net6.0/TravelLog.Domain.pdb
+/workspace/travel-log/src/TravelLog.Infrastructure/obj/Debug/net6.0/TravelLog.Infrastructure.csproj.CopyComplete

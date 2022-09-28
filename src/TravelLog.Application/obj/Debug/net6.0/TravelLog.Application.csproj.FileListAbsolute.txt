@@ -1,0 +1,15 @@
+/workspace/travel-log/src/TravelLog.Application/bin/Debug/net6.0/TravelLog.Application.deps.json
+/workspace/travel-log/src/TravelLog.Application/bin/Debug/net6.0/TravelLog.Application.dll
+/workspace/travel-log/src/TravelLog.Application/bin/Debug/net6.0/TravelLog.Application.pdb
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.csproj.AssemblyReference.cache
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.AssemblyInfoInputs.cache
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.AssemblyInfo.cs
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.csproj.CoreCompileInputs.cache
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.dll
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/refint/TravelLog.Application.dll
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.pdb
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/ref/TravelLog.Application.dll
+/workspace/travel-log/src/TravelLog.Application/bin/Debug/net6.0/TravelLog.Domain.dll
+/workspace/travel-log/src/TravelLog.Application/bin/Debug/net6.0/TravelLog.Domain.pdb
+/workspace/travel-log/src/TravelLog.Application/obj/Debug/net6.0/TravelLog.Application.csproj.CopyComplete
